@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Hello from CI/CD pipelin"
+    return "Hello from CI/CD pipelineee"
 
 
 if __name__ == "__main__":
